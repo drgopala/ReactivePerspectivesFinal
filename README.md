@@ -7,9 +7,9 @@ To run this project locally, follow these steps:
 2. **Find a folder to for this project**
 
 3. **Run this command**
-   npx create-react-app nationalparks
+   ***npx create-react-app nationalparks***
 
-4. **Replace public and src files with these files**
+4. **Replace all files with files in this project expect node files**
 
 5. **Install the dependencies:**
    ***npm install react-router-dom***
