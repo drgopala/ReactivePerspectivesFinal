@@ -12,11 +12,11 @@ To run this project locally, follow these steps:
 4. **Replace public and src files with these files**
 
 5. **Install the dependencies:**
-   npm install react-router-dom
-   npm install tailwindcss postcss autoprefixer
-   npx tailwind init -p (Might Be Unnessary)
-   npm install react-tooltip                
+   ***npm install react-router-dom***
+   ***npm install tailwindcss postcss autoprefixer***
+  ***npx tailwind init -p (Might Be Unnessary)***
+   ***npm install react-tooltip***                
  
 
 7. **Start the development server:**
-   npm start
+   ***npm start***
